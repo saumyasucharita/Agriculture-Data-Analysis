@@ -11,4 +11,6 @@ Dataset used: 1. https://www.kaggle.com/datasets/unitednations/global-food-agric
    		&nbsp; 5. Gross enrolment ratio, primary to tertiary, both sexes (%) <br/>
      		&nbsp; 6. Quality of trade- and transport-related infrastructure, score <br/>
        	5. GINI Index: https://ourworldindata.org/what-is-the-gini-coefficient#:~:text=It%20measures%20inequality%20on%20a,everyone%20has%20the%20same%20income <br/>
-	6. Global Hunger Index: https://www.globalhungerindex.org/
+	6. Global Hunger Index: https://www.globalhungerindex.org/ <br/>
+ ### Pandas Profiling Report: <br/>
+ 	https://saumyasucharita.github.io/Agriculture-Data-Analysis/report.html
