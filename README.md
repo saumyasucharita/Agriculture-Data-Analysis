@@ -18,3 +18,15 @@ Dataset used: 1. https://www.kaggle.com/datasets/unitednations/global-food-agric
  	Source: https://github.com/ipython-contrib/jupyter_contrib_nbextensions/issues/947
  	jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/toc2.zip  --user
 	jupyter nbextension enable toc2/main 
+ ## Project Installation <br />
+ 1. Clone the repository: <br />
+    	git clone https://github.com/saumyasucharita/Agriculture-Data-Analysis.git <br />
+ 2. Navigate to the project directory: <br />
+    	cd Agriculture-Data-Analysis <br />
+ 3. Create a virtual environment: <br />
+    	python -m venv venv <br />
+ 4. Activate the virtual environment (For Windows): <br />
+    	.\venv\Scripts\activate <br />
+ 5. Install dependencies: <br />
+    	pip install -r requirements.txt <br />
+    	
