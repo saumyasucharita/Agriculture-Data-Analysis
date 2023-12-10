@@ -14,3 +14,7 @@ Dataset used: 1. https://www.kaggle.com/datasets/unitednations/global-food-agric
 	6. Global Hunger Index: https://www.globalhungerindex.org/ <br/>
  ### Pandas Profiling Report: <br/>
  	https://saumyasucharita.github.io/Agriculture-Data-Analysis/report.html
+ ### Adding table of contents extension to jupyter notebook: <br />
+ 	Source: https://github.com/ipython-contrib/jupyter_contrib_nbextensions/issues/947
+ 	jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/toc2.zip  --user
+	jupyter nbextension enable toc2/main 
